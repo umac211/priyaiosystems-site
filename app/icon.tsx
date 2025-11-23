@@ -54,7 +54,7 @@ export default function Icon() {
                         fill="none"
                     />
                     <path
-                        d="M11.25 8 V24 M15.25 8.5 A 5.5 5.5 0 0 1 15.25 19.5"
+                        d="M12.25 8 V24 M16.25 8.5 A 5.5 5.5 0 0 1 16.25 19.5"
                         stroke="url(#theme-gradient)"
                         strokeWidth="2.5"
                         strokeLinecap="round"
